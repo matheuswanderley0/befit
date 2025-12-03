@@ -126,4 +126,4 @@ O projeto segue uma paleta de cores moderna e energética:
 
 🤝 Equipe
 
-Eduardo Henrique Matheus Wanderley Erick Castro Bianca Campos Caio Henrique Arthur Rodrigues
+Eduardo Henrique, Matheus Wanderley, Erick Castro, Bianca Campos, Caio Henrique, Arthur Rodrigues
